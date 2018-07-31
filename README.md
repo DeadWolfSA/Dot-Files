@@ -2,6 +2,7 @@
 
 These are the dot files I use for my current Arch ricing. I'm considering switching to Void Linux and embracing the non-systemd meme. Nothing should be distro specific as I used most of this on an old Gentoo install. Enjoy having your GNU/Linux system to look as bad as mine.
 
+![Alt text](dotshot.png)
 
 Software:
 --------------
