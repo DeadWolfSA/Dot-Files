@@ -6,19 +6,31 @@ These are the dot files I use for my current Arch ricing. I'm considering switch
 Software:
 --------------
 **i3** - I don't use gaps because I use a thinkpad x230 and screen realestate is valuable. Only a brainlet would use gaps on a small screen.
+
 **i3blocks**
+
 **i3status** - Dots included but I use i3blocks.
+
 **i3lock**
+
 **demenu2**
+
 **nitrogen**
+
 **urxvt**
+
 **cmus** - no dots yet.
+
 **compton**
+
 **amixer**
 
 Hotkeys:
 --------------
 Vanilla i3 with Alt as the mod key
+
 **Shift+Mod+F** for firefox
+
 **Shift+Mod+P** for screenshot via scrot
+
 **Shift+Mod+X** for screen lock via i3lock
